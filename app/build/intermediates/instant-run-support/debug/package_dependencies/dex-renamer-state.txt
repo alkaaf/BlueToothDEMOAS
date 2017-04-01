@@ -1,0 +1,7 @@
+#Sat Apr 01 21:33:44 ICT 2017
+base.0=E\:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\zixng_7762fd18c13ddf47c1e261992c216341b35a1313
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\btsdk_a405ca7bdacb267c99bbfddde5698d1a6c8e7015\\classes.dex
+base.1=E\:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\btsdk_a405ca7bdacb267c99bbfddde5698d1a6c8e7015
+file.0=E\:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\zixng_7762fd18c13ddf47c1e261992c216341b35a1313\\classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\selfproj\\Android\\BlueToothDEMOAS\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

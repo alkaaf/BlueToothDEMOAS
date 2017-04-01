@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zixng">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/zixng.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

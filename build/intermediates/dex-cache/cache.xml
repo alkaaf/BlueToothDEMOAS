@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\selfproj\Android\BlueToothDEMOAS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\selfproj\Android\BlueToothDEMOAS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9ae522d6632f20e74691077e8987d7c018d0852b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\selfproj\Android\BlueToothDEMOAS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701dae416f73e8c06f7025cb6d66b50cc1143111">
+        <dex dex="E:\selfproj\Android\BlueToothDEMOAS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_20f97db153fc316e1bd7c7d9b8e351eb01162484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\selfproj\Android\BlueToothDEMOAS\app\btsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ddd88d34a43d1ab16cdffc73cc39d05e9d79a85">
+        <dex dex="E:\selfproj\Android\BlueToothDEMOAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\btsdk_a405ca7bdacb267c99bbfddde5698d1a6c8e7015\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\selfproj\Android\BlueToothDEMOAS\app\zixng.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="E:\selfproj\Android\BlueToothDEMOAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\zixng_7762fd18c13ddf47c1e261992c216341b35a1313\classes.dex" />
+    </item>
+
+</items>

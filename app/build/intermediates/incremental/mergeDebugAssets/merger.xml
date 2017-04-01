@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\selfproj\Android\BlueToothDEMOAS\app\src\main\assets"><file name="demo.bmp" path="E:\selfproj\Android\BlueToothDEMOAS\app\src\main\assets\demo.bmp"/></source><source path="E:\selfproj\Android\BlueToothDEMOAS\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\selfproj\Android\BlueToothDEMOAS\app\src\debug\assets"/></dataSet></merger>
